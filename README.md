@@ -4,7 +4,7 @@
 
 # Screenshots
 
-![image](./screenshots/Simulator Screen Shot 1.png)
+![Simulator Screen Shot 1](./screenshots/simulator_screenshot_1) ![Simulator Screen Shot 2](./screenshots/simulator_screenshot_2) ![Simulator Screen Shot 3](./screenshots/simulator_screenshot_3)
 
 ## Inspiration
 We wanted to create an innovative product that has the capability of amassing huge amounts of attention, as well as contributing towards a better environment and implementing INRIX API. We were inspired by Strava's system of an activity feed that displays activity posts from your friends, as well as yourself.
