@@ -1,6 +1,6 @@
 # Carbon
 
-(This is a fork of the actual repo, [here](https://github.com/GriffinWJones/Carbon). It's set up this way, because our workflow benefitted from primarily sharing files over managing git branches, and as such, I otherwise wouldn't be listed as a contributer on the actual repo. In particular, I worked on API things like lib/map_display.dart, lib/get_distance.dart, as well as general Frontend / Backend / UX problems and necessities.)
+(I forked the [actual repo](https://github.com/GriffinWJones/Carbon) so it shows up under my Repositories)
 
 ## Screenshots
 
