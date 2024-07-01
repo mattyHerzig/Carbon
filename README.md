@@ -1,6 +1,6 @@
 # Carbon
 
-(I forked the [actual repo](https://github.com/GriffinWJones/Carbon) so it shows up under my Repositories)
+(I forked the [original repo](https://github.com/GriffinWJones/Carbon) so that it shows up under my Repositories)
 
 ## Screenshots
 
